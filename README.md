@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simgam-veda
 - 👀 I’m interested in Coding and Exploring New Things.
-- 🌱 I’m currently learning Embedded Systems.
+- 🌱 I’m currently studying B.Tech in Computer Science and Engineering Branch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
